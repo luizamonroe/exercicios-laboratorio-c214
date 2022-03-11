@@ -1,2 +1,2 @@
 # exercicios-laboratorio-c214
-Pasta om os exercicios propostos no laboratório de Engenharia de Software(C214)
+Pasta com os exercicios propostos no laboratório de Engenharia de Software(C214)
