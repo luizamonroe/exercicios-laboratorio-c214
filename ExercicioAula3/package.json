@@ -1,0 +1,15 @@
+{
+  "name": "exercicioaula3",
+  "version": "1.0.0",
+  "description": "Exercicoo Aula 3 c214",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luiza",
+  "license": "ISC",
+  "dependencies": {
+    "validate.js": "^0.13.1"
+  }
+}
